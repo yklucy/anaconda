@@ -46,7 +46,7 @@ conda install -c conda-forge matplotlib
 
 conda install -c conda-forge/label/testing matplotlib
 
-# UnavailableInvalidChannel: HTTP 404 NOT FOUND for channel conda-forge/label/testing/gcc7 <https://conda.anaconda.org/conda-forge/label/testing/gcc7>
+#UnavailableInvalidChannel: HTTP 404 NOT FOUND for channel conda-forge/label/testing/gcc7 <https://conda.anaconda.org/conda-forge/label/testing/gcc7>
 conda install -c conda-forge/label/testing/gcc7 matplotlib
 
 conda install -c conda-forge/label/cf202003 matplotlib
