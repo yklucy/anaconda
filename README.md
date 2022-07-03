@@ -32,6 +32,7 @@ conda install -c conda-forge imbalanced-learn
 
 # install tensorflow packages
 conda install -c conda-forge tensorflow
+
 conda install -c conda-forge/label/broken tensorflow
 
 conda install -c conda-forge/label/cf201901 tensorflow
